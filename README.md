@@ -1,2 +1,2 @@
-# bilibili-auto-Playbackspeed
+# B站视频倍速控制（快捷键V & 切P保持 & 记忆倍速）
 B站自动倍速，每次打开都记住上次打开的倍数
